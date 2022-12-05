@@ -2,6 +2,7 @@ h1 {
   text-align: center;
 }
 
-a {
+a.centered {
+  display: block;
   text-align: center;
 }
