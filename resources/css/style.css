@@ -1,8 +1,17 @@
 h1 {
-  text-align: center;
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
 }
 
-a.centered {
+a {
   display: block;
+  color: aquamarine;
+  font-size: 16px;
+}
+
+body {
+  background: black;
   text-align: center;
 }
