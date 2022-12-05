@@ -15,3 +15,8 @@ body {
   text-align: center;
   font-family: Verdana, sans-serif;
 }
+
+video {
+  display: block;
+  margin: auto;
+}
